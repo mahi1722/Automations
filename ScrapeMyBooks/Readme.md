@@ -1,6 +1,6 @@
 # Book Scraper
 
-This is a simple web scraper tool that extracts book titles, prices, and genres from the [Books to Scrape](http://books.toscrape.com/) website and saves the data to a CSV file.
+This is a simple web scraper tool that extracts book titles and prices from the [Books to Scrape](http://books.toscrape.com/) website and saves the data to a CSV file.
 
 ## Features
 
